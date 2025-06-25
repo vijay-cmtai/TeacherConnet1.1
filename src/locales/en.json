@@ -1,0 +1,374 @@
+
+{
+  "common": {
+    "search": "Search",
+    "loading": "Loading...",
+    "error": "Error",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "apply": "Apply",
+    "viewMore": "View More",
+    "readMore": "Read More",
+    "showLess": "Show Less"
+  },
+  "header": {
+    "brandName": "TeacherJob",
+    "nav": {
+      "home": "Home",
+      "companyReviews": "Company reviews",
+      "salaryGuide": "Salary guide",
+      "careerGuide": "Career guide",
+      "browseJobs":"Browse Jobs"
+    },
+    "profile": {
+      "profile": "Profile",
+      "myJobs": "My jobs",
+      "myReviews": "My reviews",
+      "settings": "Settings",
+      "help": "Help",
+      "privacyCenter": "Privacy Centre",
+      "signOut": "Sign out"
+    },
+    "employers": "Employers / Post Job",
+    "languageToggle": {
+      "switchToHindi": "Switch to Hindi",
+      "switchToEnglish": "Switch to English"
+    }
+  },
+  "homepage": {
+    "hero": {
+      "title": "Find Your Next Teaching Job in India",
+      "titleHighlight": "Teaching Job",
+      "subtitle": "Discover thousands of opportunities in schools and colleges near you.",
+      "searchPlaceholder": {
+        "what": "Subject, Skills, or School Name",
+        "where": "City, State, or Pincode"
+      },
+      "findJobs": "Find Jobs",
+      "postResume": "Post your resume - It only takes a few seconds",
+      "employers": "Employers: Post a job"
+    },
+    "tabs": {
+      "forYou": "Jobs for you",
+      "recent": "Recent searches"
+    },
+    "jobCard": {
+      "urgentHiring": "URGENTLY HIRING",
+      "easyApply": "Easily apply",
+      "applyNow": "Apply Now",
+      "fullTime": "Full-time",
+      "partTime": "Part-time",
+      "dayShift": "Day shift",
+      "morningShift": "Morning shift"
+    },
+    "jobDetails": {
+      "jobDescription": "Job Description",
+      "keyResponsibilities": "Key Responsibilities",
+      "requiredQualifications": "Required Qualifications",
+      "selectJob": "Select a job to see details",
+      "selectJobDescription": "Your future career is just one click away. Click on a job posting to view the full description and apply."
+    }
+  },
+  "messages": {
+    "title": "Messages",
+    "compose": "Compose New Message",
+    "tabs": {
+      "inbox": "Inbox",
+      "archived": "Archived",
+      "sent": "Sent",
+      "unread": "Unread"
+    },
+    "placeholder": "Type a message...",
+    "send": "Send",
+    "attachFile": "Attach File",
+    "archive": "Archive",
+    "moreOptions": "More Options",
+    "report": "Report Conversation",
+    "selectConversation": "Select a conversation to start messaging",
+    "noMessages": "No messages yet",
+    "aboutSchool": "About the School",
+    "aboutCandidate": "About the Candidate",
+    "viewFullProfile": "View Full Profile",
+    "viewSchoolReviews": "View School Reviews",
+    "jobDescription": "Job Description"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "markAllRead": "Mark all as read",
+    "settings": "Settings",
+    "welcome": "Welcome to your Notification Center!",
+    "welcomeDescription": "Once you start your job search, we'll notify you here about application status, messages from schools, interview tips, and new jobs that match your profile.",
+    "findJobs": "Find Jobs",
+    "types": {
+      "applicationViewed": "{{schoolName}} viewed your application",
+      "interviewRequest": "{{schoolName}} has invited you to an interview",
+      "newMessage": "You have a new message from {{schoolName}}",
+      "applicationRejected": "Your application for {{jobTitle}} was not selected at this time",
+      "offerReceived": "{{schoolName}} has sent you an offer letter!"
+    },
+    "actions": {
+      "viewDetails": "View Details & Schedule",
+      "replyNow": "Reply Now",
+      "reviewOffer": "Review Offer",
+      "viewApplication": "View Application"
+    }
+  },
+  "myJobs": {
+    "title": "My Jobs",
+    "categories": {
+      "saved": "Saved Jobs",
+      "applied": "Applied",
+      "interviews": "Interviews",
+      "offers": "Offers",
+      "hired": "Hired",
+      "archived": "Archived"
+    },
+    "status": {
+      "applicationSent": "Application Sent",
+      "viewedBySchool": "Viewed by School",
+      "interview": "Interview",
+      "offer": "Offer",
+      "hired": "Hired"
+    },
+    "actions": {
+      "withdrawApplication": "Withdraw Application",
+      "viewInterviewDetails": "View Interview Details",
+      "acceptOffer": "Accept Offer",
+      "declineOffer": "Decline Offer"
+    },
+    "appliedOn": "Applied on {{date}}",
+    "emptyStates": {
+      "saved": "No Saved Jobs Yet",
+      "applied": "No Applications Yet",
+      "interviews": "No Interviews Scheduled Yet",
+      "offers": "No Job Offers Yet",
+      "hired": "No Hired Positions Yet",
+      "archived": "No Archived Jobs"
+    },
+    "emptyDescriptions": {
+      "saved": "Save interesting jobs to apply later.",
+      "applied": "Start applying to jobs that match your profile.",
+      "interviews": "When a school invites you for an interview, you will see all the details here.",
+      "offers": "Job offers from schools will appear here for your review.",
+      "hired": "Your successful job placements will be shown here.",
+      "archived": "Jobs you've archived will appear here."
+    },
+    "exploreJobs": "Explore More Jobs"
+  },
+  "profile": {
+    "title": "My Profile",
+    "completeness": "Profile Strength: {{percentage}}%",
+    "downloadPdf": "Download Profile as PDF",
+    "viewPublic": "View Public Profile",
+    "visibleToSchools": "Visible to Schools",
+    "visibilityDescription": "Allow your profile to be discoverable by schools searching for teachers. We will never share your contact information without your permission.",
+    "sections": {
+      "documents": "My Documents",
+      "contactInfo": "Contact Information",
+      "workExperience": "Work Experience",
+      "education": "Education",
+      "skills": "Skills",
+      "jobPreferences": "Job Preferences"
+    },
+    "actions": {
+      "addNew": "Add New",
+      "uploadVideo": "Upload Demo Video",
+      "addExperience": "Add Experience",
+      "addEducation": "Add Education"
+    },
+    "lastUpdated": "Last updated: {{date}}"
+  },
+  "settings": {
+    "title": "Settings",
+    "categories": {
+      "account": "Account",
+      "notifications": "Notifications",
+      "privacy": "Privacy",
+      "security": "Security"
+    },
+    "account": {
+      "title": "Account settings",
+      "email": "Email address",
+      "password": "Password",
+      "phone": "Phone number",
+      "verified": "Verified",
+      "changeEmail": "Change email",
+      "changePassword": "Change password",
+      "changePhone": "Change phone",
+      "closeAccount": "Close my account",
+      "closeAccountDescription": "This will permanently delete your account and all associated data."
+    },
+    "notifications": {
+      "title": "Notification settings",
+      "jobAlerts": "New Job Alerts",
+      "jobAlertsDescription": "Get daily or weekly emails with jobs that match your profile.",
+      "whatsappUpdates": "Application Updates via WhatsApp",
+      "whatsappDescription": "Receive real-time updates on your application status.",
+      "schoolMessages": "Messages from Schools",
+      "schoolMessagesDescription": "Notify me when a school sends you a message."
+    },
+    "privacy": {
+      "title": "Privacy settings",
+      "profileDiscoverability": "Profile discoverability",
+      "discoverabilityDescription": "Allow schools to find your profile when they search for teachers. Your contact details will remain private.",
+      "requestData": "Request your data",
+      "requestDataDescription": "Download a copy of all the personal data you have shared with Teacher-Connect."
+    }
+  },
+  "companyReviews": {
+    "title": "Find great places to work",
+    "subtitle": "Get access to millions of company reviews",
+    "searchPlaceholder": "Company name or job title",
+    "findCompanies": "Find Companies",
+    "searchSalaries": "Do you want to search for salaries?",
+    "popularCompanies": "Popular companies",
+    "reviews": "{{count}} reviews",
+    "rating": "{{rating}} out of 5 stars",
+    "links": {
+      "salaries": "Salaries",
+      "questions": "Questions",
+      "openJobs": "Open jobs"
+    },
+    "rateEmployer": "Rate your recent employer"
+  },
+  "salaryGuide": {
+    "title": "Teacher Salary Guide",
+    "subtitle": "Know your worth in the teaching profession",
+    "searchPlaceholder": "Job title, skill, or company",
+    "searchLocation": "Location",
+    "searchSalaries": "Search Salaries",
+    "averageSalary": "Average Salary",
+    "salaryRange": "Salary Range",
+    "basedOn": "Based on {{count}} salaries",
+    "categories": {
+      "primary": "Primary Teachers",
+      "secondary": "Secondary Teachers",
+      "higher": "Higher Secondary Teachers",
+      "special": "Special Education Teachers"
+    },
+    "experience": {
+      "entry": "Entry Level (0-2 years)",
+      "mid": "Mid Level (3-5 years)",
+      "senior": "Senior Level (6+ years)"
+    }
+  },
+  "careerGuide": {
+    "title": "Career Guide for Teachers",
+    "subtitle": "Your complete guide to a successful teaching career",
+    "sections": {
+      "gettingStarted": "Getting Started",
+      "careerPaths": "Career Paths",
+      "skillDevelopment": "Skill Development",
+      "interviews": "Interview Tips"
+    },
+    "gettingStarted": {
+      "title": "How to Start Your Teaching Career",
+      "description": "Essential steps and qualifications needed to become a teacher",
+      "readMore": "Read Full Guide"
+    },
+    "careerPaths": {
+      "title": "Teaching Career Paths",
+      "description": "Explore different teaching specializations and advancement opportunities",
+      "readMore": "Explore Paths"
+    },
+    "skillDevelopment": {
+      "title": "Essential Teaching Skills",
+      "description": "Key skills every teacher should develop for career success",
+      "readMore": "Learn More"
+    },
+    "interviews": {
+      "title": "Ace Your Teaching Interview",
+      "description": "Tips and strategies for successful teaching job interviews",
+      "readMore": "Get Tips"
+    }
+  },
+  "postJob": {
+    "hero": {
+      "title": "Let's hire your next great teacher. Fast.",
+      "subtitle": "No matter the skills, experience, or qualifications you're looking for, you'll find the right people for your school on Teacher-Connect.",
+      "cta": "Post a Job"
+    },
+    "howItWorks": {
+      "title": "Everything you need to make great hires",
+      "features": {
+        "templates": {
+          "title": "Search templates for any subject",
+          "description": "Craft the perfect job post with one of our pre-built templates for roles like PGT, TGT, PRT, and more."
+        },
+        "screening": {
+          "title": "Add screening questions",
+          "description": "Filter candidates by asking crucial questions upfront, such as 'Do you have a B.Ed degree?'"
+        },
+        "dashboard": {
+          "title": "Hiring, all in one place",
+          "description": "Track applications, message candidates, schedule interviews, and manage your entire hiring process."
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Trusted by Schools Across India",
+      "quote": "Teacher-Connect helped us find a qualified Physics PGT in just two weeks. The process was seamless.",
+      "attribution": "Principal, Delhi Public School"
+    },
+    "finalCta": {
+      "title": "Ready to find your next hired candidate?",
+      "cta": "Post a Job"
+    }
+  },
+  "products": {
+    "hero": {
+      "title": "Matching and hiring made easy",
+      "subtitle": "Products for Schools & Institutions",
+      "description": "We have all the tools you need to find the right teaching talent and to start hiring today.",
+      "cta": "Post a Job"
+    },
+    "freeTools": {
+      "title": "Start with a Free Teacher Job Post",
+      "features": {
+        "templates": {
+          "title": "Search templates for any subject",
+          "description": "Craft the perfect job post with one of our pre-built templates for roles like PGT, TGT, PRT, and more."
+        },
+        "screening": {
+          "title": "Add screening questions",
+          "description": "Filter candidates by asking crucial questions upfront."
+        },
+        "dashboard": {
+          "title": "Hiring, all in one place",
+          "description": "Track applications, message candidates, and manage your entire hiring process."
+        }
+      }
+    },
+    "premium": {
+      "title": "Upgrade to Reach More Quality Teachers",
+      "features": {
+        "sponsored": {
+          "title": "Get better visibility with Sponsored Posts",
+          "description": "Sponsored Jobs appear for longer and are more visible in relevant search results."
+        },
+        "matching": {
+          "title": "Get access to matched candidates",
+          "description": "Our Smart Sourcing shows you teachers whose profiles match your job description."
+        }
+      }
+    },
+    "finalCta": {
+      "title": "Ready to build your dream team?",
+      "subtitle": "Your next great teacher is looking for you, too!",
+      "cta": "Post a Job"
+    }
+  },
+  "notFound": {
+    "title": "404",
+    "message": "Oops! Page not found",
+    "description": "The page you're looking for doesn't exist.",
+    "returnHome": "Return to Home"
+  }
+}
