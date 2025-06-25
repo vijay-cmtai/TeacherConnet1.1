@@ -38,7 +38,7 @@ export const authApi = apiService.injectEndpoints({
       query: (credentials) => ({ url: 'auth/deleteaccount', method: 'DELETE', body: credentials }),
     }),
     logout: builder.mutation({
-      query: () => ({ url: 'auth/logout', method: 'GET' }),
+      query: () => ({ url: 'auth/logout', method: 'POST' }),
     }),
   }),
 });
